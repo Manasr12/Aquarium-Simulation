@@ -1,7 +1,6 @@
-# Aquarium Simulation Project
-
+# Aquarium Simulation
 ## Overview
-Welcome to the Aquarium Simulation Project, a vibrant, virtual aquatic environment built in C++. Engage with an interactive aquarium where you can add a variety of fish species, place decorative elements, and observe the tranquil life beneath the surface.
+Welcome to the Aquarium Simulation, a vibrant, virtual aquatic environment built in C++. Engage with an interactive aquarium where you can add a variety of fish species, place decorative elements, and observe the tranquil life beneath the surface.
 
 ## Features
 
